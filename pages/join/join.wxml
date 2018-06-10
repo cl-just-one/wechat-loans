@@ -1,0 +1,25 @@
+<image class='banner' src='/images/about.jpg'></image>
+
+<view class='block'>
+  <view class='block-title'>关于我们</view>
+  <text class='block-desc'>欢饮来到欢饮来到欢饮来到欢饮来到欢饮来到欢饮，来到欢饮来到。欢饮来到欢饮来到，欢饮来到欢饮来到欢饮来到欢饮来到。</text>
+</view>
+
+<view class='block'>
+  <view class='block-title'>关于我们</view>
+  <text class='block-desc'>欢饮来到欢饮来到欢饮来到欢饮来到欢饮来到欢饮，来到欢饮来到。欢饮来到欢饮来到，欢饮来到欢饮来到欢饮来到欢饮来到。</text>
+</view>
+
+<view class='block'>
+  <view class='block-title'>关于我们</view>
+  <text class='block-desc'>欢饮来到欢饮来到欢饮来到欢饮来到欢饮来到欢饮，来到欢饮来到。欢饮来到欢饮来到，欢饮来到欢饮来到欢饮来到欢饮来到。</text>
+</view>
+
+<view class='block'>
+  <view class='block-title'>关于我们</view>
+  <text class='block-desc'>欢饮来到欢饮来到欢饮来到欢饮来到欢饮来到欢饮，来到欢饮来到。欢饮来到欢饮来到，欢饮来到欢饮来到欢饮来到欢饮来到。</text>
+</view>
+
+<view class='footer'>
+  <button bindtap='tell'>拨打电话</button>
+</view>
